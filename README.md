@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Garima 👋</h1> <h3 align="center"> A rising sophomore that has been invested in building and launching software and ML systems.  </h3> <p align="center"> <a href="https://linkedin.com/in/garimathapa2068"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:gt273@njit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> </p>
 
 ### 🎓 About Me
-🏫 **B.S. Computer Science, New Jersey Institute of Technology (Albert Dorman Honors College)** — Expected May 2029
-🤖 **Break Through Tech AI Fellow (Cornell Tech)** — 1 of 1,000 selected from 4,000+ applicants
-🔬 **HSRI Research Fellow** — built an ML regression system on a 9.7M-row spectroscopic dataset (R² > 0.99)
+🏫 **B.S. Computer Science, New Jersey Institute of Technology (Albert Dorman Honors College)** : Expected May 2029
+🤖 **Break Through Tech AI Fellow (Cornell Tech)** : 1 of 1,000 selected from 4,000+ applicants
+🔬 **HSRI Research Fellow** : built an ML regression system on a 9.7M-row spectroscopic dataset (R² > 0.99)
 ⚡ **Research assistant in an Optics Lab**, writing C++ codes for programming an Arduino for  low-cost hardware alternatives 
 🏳️ **Event Coordinator for **Women in Computing Society (WICS)** @ NJIT
 
