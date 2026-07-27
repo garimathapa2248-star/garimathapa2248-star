@@ -36,12 +36,14 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
 
-**Deep Learning / LLMs** *(currently expanding through the Break Through Tech AI Fellowship)*
+**Deep Learning / LLMs**
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+Neural networks, CNNs, and retrieval-augmented generation (RAG)
 
 **Tools & Hardware**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -50,7 +52,7 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **📚 Currently Learning**
-Neural networks & CNNs, backpropagation & SGD, large language models, retrieval-augmented generation (RAG), prompt engineering (chain-of-thought, reasoning models), and building AI chatbots
+Prompt engineering (chain-of-thought, reasoning models), multi-modal LLMs, and voice agents
 
 ---
 
@@ -60,7 +62,8 @@ Neural networks & CNNs, backpropagation & SGD, large language models, retrieval-
 |---|---|---|
 | [**Athena's Journal**](https://github.com/RK896/girlhacks-2025) | AI-assisted journaling app with an empathetic "Athena" persona and voice-based interaction via Hugging Face speech-to-text. 🏆 3rd Place, GirlHacks 2025 | Python, MongoDB, Hugging Face |
 | [**Budget Buddy**](https://github.com/Sharanya-Raj/BudgetBuddy) | Budgeting platform for NJIT students to track tuition, housing, and daily expenses, with spending visualizations and financial-aid resources built in | Python, Matplotlib |
-| **Income Classifier** *(to-be added to github soon)* | Binary income classifier on the Census dataset for financial-program eligibility triage. Capstone for the Break Through Tech AI Fellowship | Python, scikit-learn |
+| **Income Classifier** *(in progress)* | Binary income classifier on the Census dataset for financial-program eligibility triage. Capstone for the Break Through Tech AI Fellowship | Python, scikit-learn |
+| **Wireless Optical Chopper** | ESP32 firmware for Bluetooth motor control, replacing a wired setup and cutting hardware cost by 94%+ (~$50 vs. $800–1,000), validated at 91% accuracy against oscilloscopes | C++, ESP32 |
 
 ---
 
