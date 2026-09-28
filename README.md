@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Garima 👋</h1>
-<h3 align="center">Aspiring Machine Learning Engineer building and shipping ML systems from research to deployment</h3>
+<h3 align="center"></h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/garimathapa2068"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
