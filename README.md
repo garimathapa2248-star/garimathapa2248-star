@@ -54,22 +54,12 @@ Neural networks, CNNs, and retrieval-augmented generation (RAG)
 **📚 Currently Learning**
 Prompt engineering (chain-of-thought, reasoning models), multi-modal LLMs, and voice agents
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Athena's Journal**](https://github.com/RK896/girlhacks-2025) | AI-assisted journaling app with an empathetic "Athena" persona and voice-based interaction via Hugging Face speech-to-text. 🏆 3rd Place, GirlHacks 2025 | Python, MongoDB, Hugging Face |
-| [**Budget Buddy**](https://github.com/Sharanya-Raj/BudgetBuddy) | Budgeting platform for NJIT students to track tuition, housing, and daily expenses, with spending visualizations and financial-aid resources built in | Python, Matplotlib |
-| [**Game Glitch Investigator**](https://github.com/garimathapa2248-star/GameGlitchInvestigator-starter) | Debugged and refactored a broken Streamlit number-guessing game: fixed inverted hint logic, a state-reset bug, an off-by-one attempt counter, and a type-mismatch comparison error, then moved core logic into a tested module | Python, Streamlit, pytest |
-| **Income Classifier** *(will add it soon)* | Binary income classifier on the Census dataset for financial-program eligibility triage. Capstone for the Break Through Tech AI Fellowship | Python, scikit-learn |
-| **Wireless Optical Chopper** | ESP32 firmware for Bluetooth motor control, replacing a wired setup and cutting hardware cost by 94%+ (~$50 vs. $800–1,000), validated at 91% accuracy against oscilloscopes | C++, ESP32 |
 
 ---
 
 ### 🏆 Awards & Recognition
 
+- 3rd Place (Honourable Mention), HackHarvard 2026, HealthCare Track
 - MLH Hackcon 2026 Scholarship Recipient
 - 1st Place, NJIT Interdisciplinary Honors Research Forum: *"Automating Fairness: Interdisciplinary Applications of AI for Social and Economic Impartiality"*
 - 3rd Place, GirlHacks 2025
