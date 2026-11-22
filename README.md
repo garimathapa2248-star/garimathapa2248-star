@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Garima 👋</h1>
-<h3 align="center">Aspiring Machine Learning Engineer · Building ML systems that turn large, messy data into fair, real-world impact</h3>
+<h3 align="center">Aspiring Software Engineer · CS @ NJIT · Break Through Tech AI Fellow</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/garimathapa2068"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -12,14 +12,28 @@
 
 - 🏫 **B.S. Computer Science, New Jersey Institute of Technology (Albert Dorman Honors College)**: Expected May 2029
 - 🤖 **Break Through Tech AI Fellow (Cornell Tech)**: One of 1,000 fellows selected from 4,000+ applicants
-- 🔬 **HSRI Research Fellow**: Built an ML regression system on a 9.7M-row spectroscopic dataset (R² > 0.99)
+- 🔬 **HSRI Research Fellow**: Built an end-to-end ML regression pipeline on a 9.7M-row spectroscopic dataset (R² > 0.99)
 - ⚡ **Research Assistant, Optics Lab**: Writing C++ for ESP32-based, low-cost alternatives to commercial lab instruments
 - 🏳️ **Event Coordinator, Women in Computing Society (WICS)** @ NJIT
-- 💬 Currently exploring ML deployment pipelines, with a focus on AI for social impact. Ask me about my projects (fair warning: there's no `break` condition).
+- 💬 Currently exploring how to deploy ML in production software. Ask me about my projects (fair warning: there's no `break` condition).
 
 ---
 
 ### 🛠️ Tech I Work With
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & Hardware**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **ML / Data**
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -36,20 +50,6 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 *Concepts: neural networks, CNNs, and retrieval-augmented generation (RAG)*
-
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools & Hardware**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **📚 Currently Learning:** Prompt engineering (chain-of-thought, reasoning models), multimodal LLMs, and voice agents
 
